@@ -1,6 +1,6 @@
 👋 Hello! I'm Sajan Aryal, a dedicated Software Engineer with a strong foundation in developing impactful solutions for diverse industries.
 
-💻 This summer, I am interning at Vermeer Corporation where I have spearheaded the development of a cutting-edge camera app using Flutter (Dart), facilitating remote operations for surface mining machines. I also implemented Over The Air Programming (OTAP) solutions and conducted robust End-To-End testing to enhance application performance and user experience.
+💻 This summer, I am interning at Vermeer Corporation where I have spearheaded the development of a cutting-edge camera app using Flutter (Dart), facilitating remote operations for surface mining machines. I also implemented Over The Air Programming (OTAP) solutions using ASP.NET (C#) and conducted robust End-To-End testing to enhance application performance and user experience.
 
 🌟 In summer 2023, I completed my first internship at Reinsurance Group of America (RGA) where I excelled in building dynamic web applications using the ASP.NET MVC framework in Visual Studio. My projects included creating user-friendly interfaces with HTML, CSS, and JavaScript, and leveraging C# for robust backend development. I also specialized in managing extensive data workflows, extracting and organizing an average of 1.81TB of external client data monthly.
 
