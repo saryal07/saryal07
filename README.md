@@ -6,8 +6,6 @@
 
 🚀 Currently, I am passionate about leveraging my skills to drive innovation in software development, with a focus on scalable solutions and intuitive user experiences.
 
-🔍 Let's connect and collaborate on pioneering software projects together!
-
 <!---
 taryal98/taryal98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
